@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(136, 136, 132)   
+}
+.main_icon{
+    text-align: right;
+    color: rgb(99, 31, 7);
+    gap: 100px;
+    
+
+    
+    
+}
+
+nav{
+background-color: black;
+border-radius: 100px;
+}
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    padding: 25px;
+    margin: 0.2xp;
+    text-decoration-style: none;
+
+}
+
+    
+
+.container_li{
+    font-size: large;
+}
+.moon{
+    justify-content: center;
+    padding: 25px;
+    text-align: center;
+    border-radius: 50PX;
+
+}
+
+.paragraphe{
+    background-color: rgb(86, 153, 158);
+    padding: 50px;
+    border: none;
+    margin: 0.2px;
+}
+.img{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0.2px;
+    height: 250px;
+    background-color: rgb(110, 65, 9);
+
+
+    
+}
+.element_p{
+    background-color: rgb(86, 153, 158);
+    padding: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.narrow{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    text-align: center;
+    gap: 20px;
+    background-color: rgb(141, 81, 9);
+    
+}
+
+
+
+.copy{
+    text-align: right;
+    font-family: initial
+
+
+    
+
+}
+.bibi_file{
+    text-align: center;
+    justify-content: space-between;
+    padding: 25px;
+    display: flex;
+    color: blue;
+    background-color: rgb(78, 10, 31);
+    padding: auto;
+
+    
+}
+    
+    
+
+
+    
+   
+
+
+
+
+
+
+
